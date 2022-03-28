@@ -1,6 +1,6 @@
 # Healthy Skin e-commerce site
 
-![Design preview for the Personal portfolio](./images/site-screenshot.jpg)
+![Design preview for the Healthy-Skin](./images/site-screenshot.JPG)
 
 ## About project
 
