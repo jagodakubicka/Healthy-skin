@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "category": "body lotion",
+      "fields": {
+        "title": "Necessaire, The Body lotion",
+        "price": 10.99,
+        "image": {
+          "fields": {
+            "file": { "url": "./products/products-images/body-lotion-1.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "category": "face cream",
+      "fields": {
+        "title": "Biotherm Aquasource",
+        "price": 12.99,
+        "image": {
+          "fields": {
+            "file": { "url": "./products/products-images/face-cream-1.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "category": "face cream",
+      "fields": {
+        "title": "The Face Shop Natural Sun",
+        "price": 12.99,
+        "image": {
+          "fields": {
+            "file": { "url": "./products/products-images/face-cream-2.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "category": "face wash ",
+      "fields": {
+        "title": "Deep Conditioning Face Mask",
+        "price": 22.99,
+        "image": {
+          "fields": {
+            "file": { "url": "./products/products-images/face-mask-1.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "category": "face cream",
+      "fields": {
+        "title": "Derma E Vitamin C",
+        "price": 28.99,
+        "image": {
+          "fields": {
+            "file": { "url": "./products/products-images/face-wash.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "category": "serum",
+      "fields": {
+        "title": "The Ordinary.",
+        "price": 32.99,
+        "image": {
+          "fields": {
+            "file": { "url": "./products/products-images/serum-1.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "category": "face wash",
+      "fields": {
+        "title": "Curology - Face wash",
+        "price": 5.99,
+        "image": {
+          "fields": {
+            "file": { "url": "./products/products-images/face-wash-2.jpg" }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "category": "face wash",
+      "fields": {
+        "title": "2ND Design - peeling gel",
+        "price": 3.99,
+        "image": {
+          "fields": {
+            "file": { "url": "./products/products-images/face-wash-3.jpg" }
+          }
+        }
+      }
+    }
+  ]
+}
