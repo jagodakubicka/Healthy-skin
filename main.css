@@ -202,8 +202,9 @@ nav {
 /* --------slider------ */
 .carousel {
   padding: 2em;
-  max-width: 1500px;
-
+  max-width: 100%;
+  width: 900px;
+  height: auto;
   margin: auto;
 }
 .slider {
