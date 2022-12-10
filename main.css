@@ -81,16 +81,27 @@ nav {
   height: fit-content;
   left: 0;
   right: 0;
+  overflow: hidden;
 }
-.header-text h1 {
+.header-title{
+  display: flex;
+  overflow: hidden;
+}
+.header-title h1 {
   font-size: 30px;
   text-transform: uppercase;
   color: white;
+  text-shadow: 1px 1px 10px rgba(66, 68, 90, 1);
+  margin: 0 5px;
+}
+.header-title h1 span{
+display: block;
 }
 .header-links-container {
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 .header-link {
   margin: 1em;
@@ -100,6 +111,7 @@ nav {
   background-color: rgba(231, 180, 39);
   color: #ffffff;
   border-radius: 15px;
+  transition: .5s;
 }
 .header-link:hover {
   background-color: rgb(138, 107, 23);
