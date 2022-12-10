@@ -14,6 +14,7 @@ I have added maximum item amount in cart ( max to 25 items per product) together
 
 - Semantic HTML5
 - CSS
+- GSAP
 - Vanilla JavaScript
 
 ### Links
