@@ -16,11 +16,12 @@ gsap.fromTo('.letter', {y:'100%'}, {y:0, delay: 1, stagger: 0.05, ease: 'back.ou
 
 //cart
 
-tl.fromTo('.shopping-cart', {y: 20, opacity:0}, {y: 0, opacity:1}, "<")
+tl.fromTo('.shopping-cart', {x:50, opacity:0}, {x:0, opacity:1})
+
 
 // hero section title
 
 tl.fromTo('#title1', {x:"100%", opacity:0,}, {x: 0, opacity:1, delay: .2, duration: 1}, "<20%");
 tl.fromTo('#title3', {x:"-100%", opacity:0}, {x: 0, opacity:1, duration: 1}, "<20%");
 tl.fromTo('#title2', {y:"100%", opacity:0}, {y: 0, opacity:1, duration: 1}, "<20%");
-tl.fromTo('.header-link', {y:"-100%", opacity:0}, {y: 0, opacity:1,});
+tl.fromTo('.header-link', {y: 20, opacity:0}, {y: 0, opacity:1}, "<");
