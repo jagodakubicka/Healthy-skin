@@ -31,6 +31,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
+ 
 }
 .page-logo {
   margin: 1em;
@@ -38,6 +39,7 @@ nav {
   font-family: 'Pacifico', cursive;
   text-decoration: none;
   color: black;
+  overflow: hidden;
 }
 .shopping-cart {
   border: none;
