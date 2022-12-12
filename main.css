@@ -112,6 +112,7 @@ display: block;
   color: #ffffff;
   border-radius: 15px;
   transition: .5s;
+  
 }
 .header-link:hover {
   background-color: rgb(138, 107, 23);
