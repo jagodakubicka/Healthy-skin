@@ -26,4 +26,4 @@ gsap.set('.header-link', {opacity:0, })
 tl.fromTo('#title1', {x:"100%", opacity:0,}, {x: 0, opacity:1, delay: .2, duration: 1}, "<20%");
 tl.fromTo('#title3', {x:"-100%", opacity:0}, {x: 0, opacity:1, duration: 1}, "<20%");
 tl.fromTo('#title2', {y:"100%", opacity:0}, {y: 0, opacity:1, duration: 1}, "<20%");
-tl.fromTo('.header-link', { opacity:0}, { opacity:1}, "<");
+tl.fromTo('.header-link', { opacity:0}, { opacity:1, delay:0.3}, "<");
